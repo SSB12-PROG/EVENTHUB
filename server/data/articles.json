@@ -1,0 +1,718 @@
+[
+  {
+    "title": "QNu Labs Unveils Quantum Key Distribution (QKD) Hardware for Secure Telecom Networks",
+    "slug": "qnu-labs-quantum-key-distribution-qkd-india-security",
+    "source": "Financial Express Tech / PIB",
+    "sourceUrl": "https://financialexpress.com/technology/qnu-labs-quantum-key-distribution-launch/",
+    "author": "Ananya Sen",
+    "publishedAt": "2026-08-29T08:03:32.896Z",
+    "category": "Quantum",
+    "startupName": "QNu Labs",
+    "startupLocation": "Bengaluru, Karnataka",
+    "fundingStage": "Series A ($8.5M Raised)",
+    "readTime": "6 min read",
+    "heroImage": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Bengaluru-based quantum cyber-security startup QNu Labs deploys commercial Quantum Key Distribution (QKD) systems across 500km optical fiber links for Indian defense communications.",
+    "innovationHighlights": [
+      "Hardware-based QKD leveraging single-photon polarization state encoding over commercial fiber.",
+      "Ensures unconditional physical-layer data security immune to quantum computing decryption algorithms.",
+      "Integrated with Indian National Quantum Mission standards."
+    ],
+    "fullContent": "\n### Securing Critical Infrastructure Against Post-Quantum Threats\n\nQuantum security innovator **QNu Labs** has achieved a breakthrough in hardware-based cryptographic protection by completing live field deployments of its **Armos QKD System**. \n\nAs quantum computers advance toward breaking current RSA and ECC encryption standards, QNu Labs' technology harnesses fundamental laws of quantum physics (Heisenberg's Uncertainty Principle) to generate unhackable encryption keys. Any attempt by an eavesdropper to measure photons automatically alters their state, immediately alerting network administrators and destroying compromised keys.\n\n> \"Quantum security is no longer theoretical research; it is active operational defense,\" emphasized **Sunil Gupta**, Co-founder and CEO of QNu Labs.\n    ",
+    "tags": [
+      "Quantum",
+      "Cybersecurity",
+      "QKD",
+      "National Quantum Mission",
+      "Defense"
+    ],
+    "id": "dt-sample-1788033858193-50"
+  },
+  {
+    "title": "GalaxEye Space Secures Authorization for World's First Multi-Sensor SAR & Optical Imaging Satellite",
+    "source": "IN-SPACe Bulletin / ETtech",
+    "sourceUrl": "https://inc42.com/buzz/galaxeye-space-sar-optical-satellite-launch/",
+    "author": "Rohan Deshmukh",
+    "publishedAt": "2026-08-29T16:03:32.896Z",
+    "category": "SpaceTech",
+    "startupName": "GalaxEye Space",
+    "startupLocation": "Bengaluru, Karnataka",
+    "fundingStage": "Series A ($10M Raised)",
+    "readTime": "5 min read",
+    "heroImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "IIT Madras incubated GalaxEye Space completes satellite payload integration for Drishti, combining Synthetic Aperture Radar (SAR) and Optical imaging in a single satellite chassis.",
+    "innovationHighlights": [
+      "Drishti payload captures high-resolution imagery through thick cloud cover and total night darkness.",
+      "Fuses cloud-penetrating radar data with visual spectrum imagery onboard in real-time.",
+      "Reduces satellite constellation cost by 50% compared to dual-satellite SAR and Optical deployments."
+    ],
+    "fullContent": "\n### Fusion of Cloud-Penetrating Radar and Optical Earth Observation\n\nEarth observation spacetech startup **GalaxEye Space** has announced the completion of regulatory payload integration for its proprietary satellite payload, **Drishti**. Developed by alumni from IIT Madras's Hyperloop team, GalaxEye's satellite overcomes the primary limitation of traditional Earth imaging satellites: inability to see through clouds and darkness.\n\nBy fusing Synthetic Aperture Radar (SAR) and thermal optical imagery on a single platform, Drishti enables continuous 24/7 all-weather monitoring for maritime defense, agriculture yield forecasting, and disaster response across the Indian Ocean Region.\n\n> \"Until now, satellite operators had to launch two separate satellites to obtain SAR and optical datasets,\" stated **Suyash Singh**, Co-founder and CEO of GalaxEye Space. \"Drishti delivers both data streams simultaneously from a single compact microsatellite.\"\n    ",
+    "tags": [
+      "SpaceTech",
+      "SAR",
+      "Earth Observation",
+      "IIT Madras",
+      "Defense"
+    ],
+    "id": "dt-sample-1788033858190-18"
+  },
+  {
+    "id": "dt-scrape-1788033858188-356",
+    "title": "Japan, UK to create startup support fund for dual-use tech",
+    "slug": "japan-uk-to-create-startup-support-fund-for-dual-use-tech",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVlwV1YyYXhjVWRMb3lfVS1ib2RhZ3l4NlRteGwyM1BWa0VBdnlvLS1uZF9FMlRHZGwwME1KWGQ4bUxtamZ4SmkyaF9hU0pqaE1LYXQ1NHFfV3EyR1pacVlsT3pTMUdlU3MtWlg3TFhIZG9mRE9rZjljLUFXRW14MzlIQ2hCakI0RDM3YmUtcDl1MDZfSWdFQngyNktjU3ltMGVfY0lIcFpCdmlQbUJyVnBfMjk?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2026-06-11T07:00:00.000Z",
+    "category": "AI & Chips",
+    "startupName": "Indian DeepTech Startup",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Japan, UK to create startup support fund for dual-use tech  Nikkei Asia",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to AI & Chips sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\nJapan, UK to create startup support fund for dual-use tech  Nikkei Asia\n\n### Deep Tech Impact Analysis\n\nThe emergence of **Indian DeepTech Startup** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across AI & Chips.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: AI & Chips\n- **Startup Entity**: Indian DeepTech Startup\n- **Publication Source**: [Google News - India DefenseTech & Quantum](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVlwV1YyYXhjVWRMb3lfVS1ib2RhZ3l4NlRteGwyM1BWa0VBdnlvLS1uZF9FMlRHZGwwME1KWGQ4bUxtamZ4SmkyaF9hU0pqaE1LYXQ1NHFfV3EyR1pacVlsT3pTMUdlU3MtWlg3TFhIZG9mRE9rZjljLUFXRW14MzlIQ2hCakI0RDM3YmUtcDl1MDZfSWdFQngyNktjU3ltMGVfY0lIcFpCdmlQbUJyVnBfMjk?oc=5)\n            ",
+    "tags": [
+      "AI & Chips",
+      "DeepTech",
+      "India Innovation",
+      "Indian DeepTech Startup"
+    ]
+  },
+  {
+    "id": "dt-scrape-1788033858184-810",
+    "title": "Missiles, drones, Iron Beam: Modi’s visit puts India-Israel defense ties in high gear",
+    "slug": "missiles-drones-iron-beam-modi-s-visit-puts-india-israel-defense-ties-in-high-gear",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hV0o0RVAzS2RMWVVrM2FPRnhkdlRuWGY1eWdlbi1kNUVXMVZfY0diaVBtaDd6TzlFcE9qcmViRWlMU1o4YV9KTDg1WEZlNFQ4bGQ1RWp6R3J1bV9qM0tMRjAyV2xzMDNZ?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2026-02-24T08:00:00.000Z",
+    "category": "DefenseTech",
+    "startupName": "Indian DeepTech Startup",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1508614589041-895b88991e3e?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Missiles, drones, Iron Beam: Modi’s visit puts India-Israel defense ties in high gear  calcalistech.com",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to DefenseTech sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\nMissiles, drones, Iron Beam: Modi’s visit puts India-Israel defense ties in high gear  calcalistech.com\n\n### Deep Tech Impact Analysis\n\nThe emergence of **Indian DeepTech Startup** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across DefenseTech.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: DefenseTech\n- **Startup Entity**: Indian DeepTech Startup\n- **Publication Source**: [Google News - India DefenseTech & Quantum](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hV0o0RVAzS2RMWVVrM2FPRnhkdlRuWGY1eWdlbi1kNUVXMVZfY0diaVBtaDd6TzlFcE9qcmViRWlMU1o4YV9KTDg1WEZlNFQ4bGQ1RWp6R3J1bV9qM0tMRjAyV2xzMDNZ?oc=5)\n            ",
+    "tags": [
+      "DefenseTech",
+      "DeepTech",
+      "India Innovation",
+      "Indian DeepTech Startup"
+    ]
+  },
+  {
+    "id": "dt-scrape-1788033858180-632",
+    "title": "Drones and the future of warfare | AI & defence: War's new rule book",
+    "slug": "drones-and-the-future-of-warfare-ai-defence-war-s-new-rule-book",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQT19VZWdhaWc2U0xpTTgzMHh6TS1uN19ycXkyM2NBWWFEYzdNRXNPQ0hVNUtvOEdJV3Q3Q21VMGZ4U2o5ZWxYb1A3RWFzTGJQY3NNV1NpSWcyUjM1ZGZ1NDR2azdISEhES2pSd3ZDOGNKdG9JV09VQl9Ma3BXRGVsZTVWZFFWMFBqTEFnZmpKbjJXZXBBbjNzY0xZZTlSQ2I2OFk4cEhtbkNMUVV3cTBrSzdFdkZHbkNwaVlYMXNtZU8xNHZOVUx6QlozdHRMS2VvTVE1R3FuRlFFNl8wUWx1NkxuTVhGY3M3MHozQmlDZDBjU0oxNTJZd1FaWERxWld6XzhRMVJ6MF91TW5FdmVIc2NCdlZRdnBpSnEzUm9vYV83ODFFQUpkeE9SNWVEQUpLM1l1MUhNS2lNdTDSAcACQVVfeXFMTmk4WHpsYnBTY0dxS1dHTzJqMm4ySzE3M0tHOEJtNkFEMTR6MEo2WHBzUHBHemNjTGJJTGRsV2ZpdnE0dUh1ZXhCc1hSVGRSN1dvb0JlbWZVbklSa21BRHVoczMwUFpuZnZxY2lxWERvNndRcGo5VVl5VHYtVi03UWpqUV9KM2RuNjZrMS1aMTZybFY5bl9MY1I5YWtmcHR6NHNOQm50VmpIdmZSVG1teXcyMkJ6a3ZiWU03dnk3ZUJqTnFySTVCekYyVXRneENlckR1enVxNEc4eE95YllrLVBRTnN5c1d2SVJ3cmJ2ZG5WT1VDS2ZvM1I3ZU9DX0tHanJ3cEFya3FlZVFQcVREZFRuaEU5Q201aFpTS2FlZXdKejlNUzFtLTh6RGF4V2k0TnMwbEVRdlQwZHpENThwRlE?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2026-03-21T07:00:00.000Z",
+    "category": "AI & Chips",
+    "startupName": "Indian DeepTech Startup",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Drones and the future of warfare | AI & defence: War's new rule book  India Today",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to AI & Chips sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\nDrones and the future of warfare | AI & defence: War's new rule book  India Today\n\n### Deep Tech Impact Analysis\n\nThe emergence of **Indian DeepTech Startup** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across AI & Chips.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: AI & Chips\n- **Startup Entity**: Indian DeepTech Startup\n- **Publication Source**: [Google News - India DefenseTech & Quantum](https://news.google.com/rss/articles/CBMiuwJBVV95cUxQT19VZWdhaWc2U0xpTTgzMHh6TS1uN19ycXkyM2NBWWFEYzdNRXNPQ0hVNUtvOEdJV3Q3Q21VMGZ4U2o5ZWxYb1A3RWFzTGJQY3NNV1NpSWcyUjM1ZGZ1NDR2azdISEhES2pSd3ZDOGNKdG9JV09VQl9Ma3BXRGVsZTVWZFFWMFBqTEFnZmpKbjJXZXBBbjNzY0xZZTlSQ2I2OFk4cEhtbkNMUVV3cTBrSzdFdkZHbkNwaVlYMXNtZU8xNHZOVUx6QlozdHRMS2VvTVE1R3FuRlFFNl8wUWx1NkxuTVhGY3M3MHozQmlDZDBjU0oxNTJZd1FaWERxWld6XzhRMVJ6MF91TW5FdmVIc2NCdlZRdnBpSnEzUm9vYV83ODFFQUpkeE9SNWVEQUpLM1l1MUhNS2lNdTDSAcACQVVfeXFMTmk4WHpsYnBTY0dxS1dHTzJqMm4ySzE3M0tHOEJtNkFEMTR6MEo2WHBzUHBHemNjTGJJTGRsV2ZpdnE0dUh1ZXhCc1hSVGRSN1dvb0JlbWZVbklSa21BRHVoczMwUFpuZnZxY2lxWERvNndRcGo5VVl5VHYtVi03UWpqUV9KM2RuNjZrMS1aMTZybFY5bl9MY1I5YWtmcHR6NHNOQm50VmpIdmZSVG1teXcyMkJ6a3ZiWU03dnk3ZUJqTnFySTVCekYyVXRneENlckR1enVxNEc4eE95YllrLVBRTnN5c1d2SVJ3cmJ2ZG5WT1VDS2ZvM1I3ZU9DX0tHanJ3cEFya3FlZVFQcVREZFRuaEU5Q201aFpTS2FlZXdKejlNUzFtLTh6RGF4V2k0TnMwbEVRdlQwZHpENThwRlE?oc=5)\n            ",
+    "tags": [
+      "AI & Chips",
+      "DeepTech",
+      "India Innovation",
+      "Indian DeepTech Startup"
+    ]
+  },
+  {
+    "id": "dt-scrape-1788033858176-388",
+    "title": "New-age defence tech is rising, but is India ready with the talent?",
+    "slug": "new-age-defence-tech-is-rising-but-is-india-ready-with-the-talent",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSE9uN1B2UEVxeDNhWlVtbzJNRnpqVWd5T3BBNGxfZ0JRV2lkbm82RHVTSTRnX3dvSE45YVRuZHR1THNTMkhLV2JSZFVlLXBjNjBObHh2Zk1YMFF3Q1U2Ni14ZUdZbFJKbW80UUVfSGc0dF9fWnh0b0ZKdmZZTzN6Sm55UnEzSFl0TEZZcg?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2025-12-03T08:00:00.000Z",
+    "category": "AI & Chips",
+    "startupName": "Indian DeepTech Startup",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "New-age defence tech is rising, but is India ready with the talent?  YourStory.com",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to AI & Chips sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\nNew-age defence tech is rising, but is India ready with the talent?  YourStory.com\n\n### Deep Tech Impact Analysis\n\nThe emergence of **Indian DeepTech Startup** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across AI & Chips.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: AI & Chips\n- **Startup Entity**: Indian DeepTech Startup\n- **Publication Source**: [Google News - India DefenseTech & Quantum](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSE9uN1B2UEVxeDNhWlVtbzJNRnpqVWd5T3BBNGxfZ0JRV2lkbm82RHVTSTRnX3dvSE45YVRuZHR1THNTMkhLV2JSZFVlLXBjNjBObHh2Zk1YMFF3Q1U2Ni14ZUdZbFJKbW80UUVfSGc0dF9fWnh0b0ZKdmZZTzN6Sm55UnEzSFl0TEZZcg?oc=5)\n            ",
+    "tags": [
+      "AI & Chips",
+      "DeepTech",
+      "India Innovation",
+      "Indian DeepTech Startup"
+    ]
+  },
+  {
+    "id": "dt-scrape-1788033858173-19",
+    "title": "Indian Army’s tech leap: 6G, quantum, AI cloud and 300 capability projects in the works",
+    "slug": "indian-army-s-tech-leap-6g-quantum-ai-cloud-and-300-capability-projects-in-the-works",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWGd5cl9yWkxENEo5Mnd4RFNFSHFyZFZmZDdNa0ZmaWtjSVZxZ0MxcXFEMkVTb2JHUVVkWUoyOVYxUnI3YnZJam9zeEs0NlVNVHFBSDBrdmV4NUhTTmhOLWxoSjIwUUxQSTFqY2R2YXp0ZmJYczBUNFBSaFdWbUFXRlg2eFlQSlRGOW9PYzZPREZjeExYNUZ0R09YV3NwR19XTkhoWWV4dktMakFFZUN4b090MGY5Qm50N29OYmZ0V1JPUU4yVEdyNk43YmM1c1RpWk0tMkJlUWx0YWk5NkdUcEFlM0lxbFBmdDZwZ3piUdIB9AFBVV95cUxOZjl3SEU2bTR2MFJqdm1Ga0huemFtMjlUYmcyMy1fOVBfMWxxN2hVMUZkRVZ6RGN6TExYSzNVdUlyYS1iUTBXNlQxdWlKb1BwM3phNXgyS0QzQWVXWWVIRzNkeHhIQlJqTHNNeVRiQWRCM3JQTmNzRExkRjZsYnVuNHRaUnBjQ2FqUzZnak0yNHhBZHc5MXpiMjhHTWpyNnVjWlM5NWZaVDZSV29KQzgwTUlneFp2SjdDRTdJMlBPTXhsQnJXOGpRTlVwTlR1TGhDdmRpYWxTTXBKRkYzdFJnY3hxOW5Cand5SkdnSElsZ2VERWJJ?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2026-08-11T07:00:00.000Z",
+    "category": "AI & Chips",
+    "startupName": "Indian DeepTech Startup",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Indian Army’s tech leap: 6G, quantum, AI cloud and 300 capability projects in the works  The Times of India",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to AI & Chips sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\nIndian Army’s tech leap: 6G, quantum, AI cloud and 300 capability projects in the works  The Times of India\n\n### Deep Tech Impact Analysis\n\nThe emergence of **Indian DeepTech Startup** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across AI & Chips.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: AI & Chips\n- **Startup Entity**: Indian DeepTech Startup\n- **Publication Source**: [Google News - India DefenseTech & Quantum](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWGd5cl9yWkxENEo5Mnd4RFNFSHFyZFZmZDdNa0ZmaWtjSVZxZ0MxcXFEMkVTb2JHUVVkWUoyOVYxUnI3YnZJam9zeEs0NlVNVHFBSDBrdmV4NUhTTmhOLWxoSjIwUUxQSTFqY2R2YXp0ZmJYczBUNFBSaFdWbUFXRlg2eFlQSlRGOW9PYzZPREZjeExYNUZ0R09YV3NwR19XTkhoWWV4dktMakFFZUN4b090MGY5Qm50N29OYmZ0V1JPUU4yVEdyNk43YmM1c1RpWk0tMkJlUWx0YWk5NkdUcEFlM0lxbFBmdDZwZ3piUdIB9AFBVV95cUxOZjl3SEU2bTR2MFJqdm1Ga0huemFtMjlUYmcyMy1fOVBfMWxxN2hVMUZkRVZ6RGN6TExYSzNVdUlyYS1iUTBXNlQxdWlKb1BwM3phNXgyS0QzQWVXWWVIRzNkeHhIQlJqTHNNeVRiQWRCM3JQTmNzRExkRjZsYnVuNHRaUnBjQ2FqUzZnak0yNHhBZHc5MXpiMjhHTWpyNnVjWlM5NWZaVDZSV29KQzgwTUlneFp2SjdDRTdJMlBPTXhsQnJXOGpRTlVwTlR1TGhDdmRpYWxTTXBKRkYzdFJnY3hxOW5Cand5SkdnSElsZ2VERWJJ?oc=5)\n            ",
+    "tags": [
+      "AI & Chips",
+      "DeepTech",
+      "India Innovation",
+      "Indian DeepTech Startup"
+    ]
+  },
+  {
+    "id": "dt-scrape-1788033857658-942",
+    "title": "63 Cleantech Startups Working Towards Making India’s Future Cleaner & Greener",
+    "slug": "63-cleantech-startups-working-towards-making-india-s-future-cleaner-greener",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcEtaTk9SV1c4NkNNU25ITmR0aDI3eHlLNDhzalF5R3A0emJkWnRzOFdldm41ckJXeldRTWY4NlVNUTBGRkZEb2xES0JVX3lBN0t2Sm1KeWVLOXpDekNtUWFwaU9JLWh5a1ZtM2hHZnNwMVdReDF3V2VkQ29OVHROMFdFcG5KODJETFRub19QZ0RHR3hNcl9nYVJ2TUhVeXRTZDhpdFlyUTdySm5hOVE?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2025-01-18T08:00:00.000Z",
+    "category": "AI & Chips",
+    "startupName": "Indian DeepTech Startup",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "63 Cleantech Startups Working Towards Making India’s Future Cleaner & Greener  Inc42",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to AI & Chips sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\n63 Cleantech Startups Working Towards Making India’s Future Cleaner & Greener  Inc42\n\n### Deep Tech Impact Analysis\n\nThe emergence of **Indian DeepTech Startup** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across AI & Chips.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: AI & Chips\n- **Startup Entity**: Indian DeepTech Startup\n- **Publication Source**: [Google News - India BioTech & ClimateTech](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcEtaTk9SV1c4NkNNU25ITmR0aDI3eHlLNDhzalF5R3A0emJkWnRzOFdldm41ckJXeldRTWY4NlVNUTBGRkZEb2xES0JVX3lBN0t2Sm1KeWVLOXpDekNtUWFwaU9JLWh5a1ZtM2hHZnNwMVdReDF3V2VkQ29OVHROMFdFcG5KODJETFRub19QZ0RHR3hNcl9nYVJ2TUhVeXRTZDhpdFlyUTdySm5hOVE?oc=5)\n            ",
+    "tags": [
+      "AI & Chips",
+      "DeepTech",
+      "India Innovation",
+      "Indian DeepTech Startup"
+    ]
+  },
+  {
+    "id": "dt-scrape-1788033857654-738",
+    "title": "How Log9 Materials is helping India become self-sustainable in the EV sector",
+    "slug": "how-log9-materials-is-helping-india-become-self-sustainable-in-the-ev-sector",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0t2Q3ZGbnhEUFh1RjZpYk1CNzN0VTZNanIzdEdCT0lkZWp1d2x5a3dMZ3B5MWdkdWdMTXg5N1JtX3RtWGpNNEU2a1YydDZsVlNnTk1oT0RPN2FJN1M5ckJSODg2WldOZkI2V2RUSGN4LW1OWWZSOUdqWUpXUHdNdlRFVWh4OWdQckN4MWdfSzFBMzdpd3NR?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2023-02-18T08:00:00.000Z",
+    "category": "AI & Chips",
+    "startupName": "How Log9 Materials",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "How Log9 Materials is helping India become self-sustainable in the EV sector  YourStory.com",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to AI & Chips sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\nHow Log9 Materials is helping India become self-sustainable in the EV sector  YourStory.com\n\n### Deep Tech Impact Analysis\n\nThe emergence of **How Log9 Materials** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across AI & Chips.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: AI & Chips\n- **Startup Entity**: How Log9 Materials\n- **Publication Source**: [Google News - India BioTech & ClimateTech](https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0t2Q3ZGbnhEUFh1RjZpYk1CNzN0VTZNanIzdEdCT0lkZWp1d2x5a3dMZ3B5MWdkdWdMTXg5N1JtX3RtWGpNNEU2a1YydDZsVlNnTk1oT0RPN2FJN1M5ckJSODg2WldOZkI2V2RUSGN4LW1OWWZSOUdqWUpXUHdNdlRFVWh4OWdQckN4MWdfSzFBMzdpd3NR?oc=5)\n            ",
+    "tags": [
+      "AI & Chips",
+      "DeepTech",
+      "India Innovation",
+      "How Log9 Materials"
+    ]
+  },
+  {
+    "id": "dt-scrape-1788033857324-213",
+    "title": "How four cool spacetech start-ups are bringing about a transformation",
+    "slug": "how-four-cool-spacetech-start-ups-are-bringing-about-a-transformation",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM3BiY3ZId20wZE1ULVdIZ3h0TkN4Z2QwNW5oOUJmTmVPbHNsLVZ6NnBFbU5DR0pwbll0Ti1kN0NGNFVhT1pYLVB2bmN3aXQxcXJYcUFETTZPZEZOeWFEeFhQTUZkUXB4Vm9icGdaa3ZBZHJaRGFjT3BIRTdhc2pLUnYyR1ZiRnhJTzZjZXZacGtRTlMtc1B0MEtvUV8yMVZWZlJZbVV6WlpnX1ZnMFNOVUt4eFNYcDJHd1hMalNJLVllMmd2dXF0RW9HNFNYc2NkQkxSbHFidE_SAd4BQVVfeXFMTkl2RzY3cVVPVGpoaE9zN0JEUXhoaTlVWE1zSW8wSnU3RzhuV3FpRlJvdTBrUkN1LWhqZ252TmhMQ2NDUGZMQ1BBTHV3RThRbDVPNXhjLTMxWmlKdDJPR2drRWhoR0F4VndKTEdHVW1ZRjc3SFpPb2JXbTZKOERDSC03ZjJCYTZlNzVGWTlxZG1rSXdmZlZNZ1lzNWZHcU05VWFha2szTkcyUUgzSDZXQ3ZKekdiY0R1YUFCZlpqUndraVVVTDRELUZtZFJpQjZpbVVWMi00VTJpbFJMMUZn?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2026-08-11T07:00:00.000Z",
+    "category": "SpaceTech",
+    "startupName": "Indian DeepTech Startup",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "How four cool spacetech start-ups are bringing about a transformation  Business Today",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to SpaceTech sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\nHow four cool spacetech start-ups are bringing about a transformation  Business Today\n\n### Deep Tech Impact Analysis\n\nThe emergence of **Indian DeepTech Startup** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across SpaceTech.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: SpaceTech\n- **Startup Entity**: Indian DeepTech Startup\n- **Publication Source**: [Google News - India Spacetech](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM3BiY3ZId20wZE1ULVdIZ3h0TkN4Z2QwNW5oOUJmTmVPbHNsLVZ6NnBFbU5DR0pwbll0Ti1kN0NGNFVhT1pYLVB2bmN3aXQxcXJYcUFETTZPZEZOeWFEeFhQTUZkUXB4Vm9icGdaa3ZBZHJaRGFjT3BIRTdhc2pLUnYyR1ZiRnhJTzZjZXZacGtRTlMtc1B0MEtvUV8yMVZWZlJZbVV6WlpnX1ZnMFNOVUt4eFNYcDJHd1hMalNJLVllMmd2dXF0RW9HNFNYc2NkQkxSbHFidE_SAd4BQVVfeXFMTkl2RzY3cVVPVGpoaE9zN0JEUXhoaTlVWE1zSW8wSnU3RzhuV3FpRlJvdTBrUkN1LWhqZ252TmhMQ2NDUGZMQ1BBTHV3RThRbDVPNXhjLTMxWmlKdDJPR2drRWhoR0F4VndKTEdHVW1ZRjc3SFpPb2JXbTZKOERDSC03ZjJCYTZlNzVGWTlxZG1rSXdmZlZNZ1lzNWZHcU05VWFha2szTkcyUUgzSDZXQ3ZKekdiY0R1YUFCZlpqUndraVVVTDRELUZtZFJpQjZpbVVWMi00VTJpbFJMMUZn?oc=5)\n            ",
+    "tags": [
+      "SpaceTech",
+      "DeepTech",
+      "India Innovation",
+      "Indian DeepTech Startup"
+    ]
+  },
+  {
+    "id": "dt-scrape-1788033857322-357",
+    "title": "Rocket dreams and unicorns: Investors bet on a long and high ride",
+    "slug": "rocket-dreams-and-unicorns-investors-bet-on-a-long-and-high-ride",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeDBRbXpaLWg1cXpPS2hJb3duTU9nYVk0RHdqWkFUblpBVy1odktrUVRLdGxFdkZmeUIyU0JDeDZXLWZoTF9MREVtWGwtRlEzTmtzTFlwZ2NaclF6eVhtSE0xM25zNTVWWW1DMVp3amt4elNvLXhRemc2cHZUWnIxclgwa05OeGxCZXlTbFZ5X0NEYjViWTVYbjNySEI4Y09tRm9GZVF5TzRtQ3E4T3Y2OXltMGpjcTNVbmZvQkI1VUFORXlXX3ZIcm90RdIB0AFBVV95cUxONUh5dUJDSFZCNGxmM2hUMHE5bkxGbUt4aVRmNVotaWhHUW9UaDNNUERFX3AwYTNWTkkxU0FDb0t0clFlcE5nUEt5SFk0NkVsOWZ6Q21FSm5kTExWN1d6QVpERm9RZ2stTEpGb0RPS2xaWWRlTWxQaEpoc1FqMk5BYXRPalhjNzVDeVdqaWFJQTlJR3FkeXNpVGJjVUZ4MzgtSl91VGswV1NxUGVDNXFZVFUzdmdjcHJOSHpNaFV2bWNvXzQxMnJhX2k1RGptRUNi?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2026-05-11T07:00:00.000Z",
+    "category": "SpaceTech",
+    "startupName": "Indian DeepTech Startup",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Rocket dreams and unicorns: Investors bet on a long and high ride  The Economic Times",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to SpaceTech sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\nRocket dreams and unicorns: Investors bet on a long and high ride  The Economic Times\n\n### Deep Tech Impact Analysis\n\nThe emergence of **Indian DeepTech Startup** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across SpaceTech.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: SpaceTech\n- **Startup Entity**: Indian DeepTech Startup\n- **Publication Source**: [Google News - India Spacetech](https://news.google.com/rss/articles/CBMiywFBVV95cUxQeDBRbXpaLWg1cXpPS2hJb3duTU9nYVk0RHdqWkFUblpBVy1odktrUVRLdGxFdkZmeUIyU0JDeDZXLWZoTF9MREVtWGwtRlEzTmtzTFlwZ2NaclF6eVhtSE0xM25zNTVWWW1DMVp3amt4elNvLXhRemc2cHZUWnIxclgwa05OeGxCZXlTbFZ5X0NEYjViWTVYbjNySEI4Y09tRm9GZVF5TzRtQ3E4T3Y2OXltMGpjcTNVbmZvQkI1VUFORXlXX3ZIcm90RdIB0AFBVV95cUxONUh5dUJDSFZCNGxmM2hUMHE5bkxGbUt4aVRmNVotaWhHUW9UaDNNUERFX3AwYTNWTkkxU0FDb0t0clFlcE5nUEt5SFk0NkVsOWZ6Q21FSm5kTExWN1d6QVpERm9RZ2stTEpGb0RPS2xaWWRlTWxQaEpoc1FqMk5BYXRPalhjNzVDeVdqaWFJQTlJR3FkeXNpVGJjVUZ4MzgtSl91VGswV1NxUGVDNXFZVFUzdmdjcHJOSHpNaFV2bWNvXzQxMnJhX2k1RGptRUNi?oc=5)\n            ",
+    "tags": [
+      "SpaceTech",
+      "DeepTech",
+      "India Innovation",
+      "Indian DeepTech Startup"
+    ]
+  },
+  {
+    "id": "dt-scrape-1788033857319-297",
+    "title": "Are Space Tech Startups Poaching ISRO Scientists? Well, It's Complicated",
+    "slug": "are-space-tech-startups-poaching-isro-scientists-well-it-s-complicated",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVDRucGZlaTlYSFV5aFNLalp5WG4xYUVPVm5RbEw3YkNMLV8wZTFObGtySlhIOTg5bm13WHVHSmlGR2RjWFFQdTZDNWwtanA5MjIwSW5pUlczTDE5d2I1UTFWYy1UU1hEZWVFWGQ2WW1EenNKeHFIdFU5SnAzVU1ubWxSdm9ialkxY1E5X0RWZWluVHp6cUJtaUVCZ3FTU0p2NGs5RTEyMlNNOGlaOXhkQw?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2026-08-05T07:00:00.000Z",
+    "category": "SpaceTech",
+    "startupName": "Are Space Tech",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Are Space Tech Startups Poaching ISRO Scientists? Well, It's Complicated  analyticsindiamag.com",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to SpaceTech sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\nAre Space Tech Startups Poaching ISRO Scientists? Well, It's Complicated  analyticsindiamag.com\n\n### Deep Tech Impact Analysis\n\nThe emergence of **Are Space Tech** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across SpaceTech.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: SpaceTech\n- **Startup Entity**: Are Space Tech\n- **Publication Source**: [Google News - India Spacetech](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVDRucGZlaTlYSFV5aFNLalp5WG4xYUVPVm5RbEw3YkNMLV8wZTFObGtySlhIOTg5bm13WHVHSmlGR2RjWFFQdTZDNWwtanA5MjIwSW5pUlczTDE5d2I1UTFWYy1UU1hEZWVFWGQ2WW1EenNKeHFIdFU5SnAzVU1ubWxSdm9ialkxY1E5X0RWZWluVHp6cUJtaUVCZ3FTU0p2NGs5RTEyMlNNOGlaOXhkQw?oc=5)\n            ",
+    "tags": [
+      "SpaceTech",
+      "DeepTech",
+      "India Innovation",
+      "Are Space Tech"
+    ]
+  },
+  {
+    "id": "dt-scrape-1788033857316-725",
+    "title": "After Skyroot's Big Win, Indian Space Startups Bag $871 Million Funding",
+    "slug": "after-skyroot-s-big-win-indian-space-startups-bag-871-million-funding",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWd5RWdQcE5ZSVhjLXMtTTladHdHVVpwT1JmSkV1U1RhR3dGODl1S2JIRDVTVC1vaXpZNVhZd2l1RHRzd3JSUFdjaUxuZTJaeS1lZ2FyVk9RQzhDTmtSU3dhMnNtcFo1LTd1UHl6OHViUGlGTDdTYnltSmxkbVFSRVpYU294NDljVTJ5WFRQbzBYdGpLd1R1V285aU8yeGNsOWhDNjlqdEtuSkxraFZRZ01mZXRPRjZ2SlJZ0gHDAUFVX3lxTE1GS2ZzVkNvRnpoV1V2MlNtaWJQR2tET2pQLV9YYVMyYWdkX3BSZWxBYXB4bFhCOEE0Tl9IdF9Nc25nSllWZ3B0NG5Rbl9kUnRFM3o3cTlkMHl4SXNneG1VeENKaGM5cjBoMV9sd2htX2g5Z3BORGlCenk2NzVyRlZpQ280T2JhYlZLWGNXMUkxaXlzR3hza0RkRWd1MWFack03cVlKbHpZVFdyeldqUzJyTGsycTVRRGNTY3lNVmJyU2llVQ?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2026-08-03T07:00:00.000Z",
+    "category": "SpaceTech",
+    "startupName": "Indian Space",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "After Skyroot's Big Win, Indian Space Startups Bag $871 Million Funding  NDTV",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to SpaceTech sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\nAfter Skyroot's Big Win, Indian Space Startups Bag $871 Million Funding  NDTV\n\n### Deep Tech Impact Analysis\n\nThe emergence of **Indian Space** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across SpaceTech.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: SpaceTech\n- **Startup Entity**: Indian Space\n- **Publication Source**: [Google News - India Spacetech](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWd5RWdQcE5ZSVhjLXMtTTladHdHVVpwT1JmSkV1U1RhR3dGODl1S2JIRDVTVC1vaXpZNVhZd2l1RHRzd3JSUFdjaUxuZTJaeS1lZ2FyVk9RQzhDTmtSU3dhMnNtcFo1LTd1UHl6OHViUGlGTDdTYnltSmxkbVFSRVpYU294NDljVTJ5WFRQbzBYdGpLd1R1V285aU8yeGNsOWhDNjlqdEtuSkxraFZRZ01mZXRPRjZ2SlJZ0gHDAUFVX3lxTE1GS2ZzVkNvRnpoV1V2MlNtaWJQR2tET2pQLV9YYVMyYWdkX3BSZWxBYXB4bFhCOEE0Tl9IdF9Nc25nSllWZ3B0NG5Rbl9kUnRFM3o3cTlkMHl4SXNneG1VeENKaGM5cjBoMV9sd2htX2g5Z3BORGlCenk2NzVyRlZpQ280T2JhYlZLWGNXMUkxaXlzR3hza0RkRWd1MWFack03cVlKbHpZVFdyeldqUzJyTGsycTVRRGNTY3lNVmJyU2llVQ?oc=5)\n            ",
+    "tags": [
+      "SpaceTech",
+      "DeepTech",
+      "India Innovation",
+      "Indian Space"
+    ]
+  },
+  {
+    "id": "dt-scrape-1788033857315-23",
+    "title": "Prime Minister Narendra Modi met founders and CEOs of 20 Indian space startups at Seva Teerth on August 21, including Skyroot Aerospace, AgniKul Cosmos and Digantara. The companies presented their work across launch vehicles, space debris removal,",
+    "slug": "prime-minister-narendra-modi-met-founders-and-ceos-of-20-indian-space-startups-at-seva-teerth-on-august-21-including-skyroot-aerospace-agnikul-cosmos-and-digantara-the-companies-presented-their-work-across-launch-vehicles-space-debris-removal",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVppamJzVmlVbHM1VU1aQWRYOU9nd0ZHYVBwcy1PRGRNNHMxaVZucjhmVi11ZW51M2RPSW9mVDFfcVRrMktVU0k0aFVyUS1CazNlTC05SWMwbDFiZlBfVmZZX1RETkNQWnFZeGpzV2ZrNHFpX3FwTU5VZ2lDLWo4RjZDNDlPVWEwMFZBeFhKamRnR0JHd3hDMExkeEMwY3lKVXpRN01CVm11MVdVVTVj?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2026-08-21T12:30:45.000Z",
+    "category": "SpaceTech",
+    "startupName": "Skyroot Aerospace",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Prime Minister Narendra Modi met founders and CEOs of 20 Indian space startups at Seva Teerth on August 21, including Skyroot Aerospace, AgniKul Cosmos and Digantara. The companies presented their work across launch vehi...",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to SpaceTech sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\nPrime Minister Narendra Modi met founders and CEOs of 20 Indian space startups at Seva Teerth on August 21, including Skyroot Aerospace, AgniKul Cosmos and Digantara. The companies presented their work across launch vehicles, space debris removal,  LinkedIn\n\n### Deep Tech Impact Analysis\n\nThe emergence of **Skyroot Aerospace** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across SpaceTech.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: SpaceTech\n- **Startup Entity**: Skyroot Aerospace\n- **Publication Source**: [Google News - India Spacetech](https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVppamJzVmlVbHM1VU1aQWRYOU9nd0ZHYVBwcy1PRGRNNHMxaVZucjhmVi11ZW51M2RPSW9mVDFfcVRrMktVU0k0aFVyUS1CazNlTC05SWMwbDFiZlBfVmZZX1RETkNQWnFZeGpzV2ZrNHFpX3FwTU5VZ2lDLWo4RjZDNDlPVWEwMFZBeFhKamRnR0JHd3hDMExkeEMwY3lKVXpRN01CVm11MVdVVTVj?oc=5)\n            ",
+    "tags": [
+      "SpaceTech",
+      "DeepTech",
+      "India Innovation",
+      "Skyroot Aerospace"
+    ]
+  },
+  {
+    "id": "dt-scrape-1788033856915-722",
+    "title": "India, Japan seek deeper startup, deep-tech cooperation; Goyal pitches $1 billion fund and capital corridor",
+    "slug": "india-japan-seek-deeper-startup-deep-tech-cooperation-goyal-pitches-1-billion-fund-and-capital-corridor",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTzhPSGozNklNd3lxdU1XQ0F6S01iM1ZyY1d3Yk5oNl9TbDlGTWZTbTB5bDBiM3dzd0RKNVdQUTBDVHZNNEJWZ0JESFVybEtlenRveDVzQnhDYlR4QmZlZ1pXZ0l3M0NDVXlRazRhNXZQSVF2UGRDMGNsT0hUNnhwb3FqWGtnOWZyMC1iQmIyLUdkbFpBM1UzU3Q5MFN5Wm5jcWRPTDBCM1pzSUc1UkFRd29USXZCUnNrSkx4QVowVUpGaVFQOHpqN2dxSWxkS2YyYkNWM0pRVG0yaEExbWRrNl9KcHJiQUdM0gHuAUFVX3lxTE05dkp4TzluTlRoOVRiYW9sSXBQTG40NEwtNWxFSDZ2UGNKNWJHT29TYzk1a3lib19hdXdsWnoxR0ltaDdsRHo0ZTlJU096bXZvRlZnci13YU9ObjB2YklVdFJCbG1CWjJPT2l1LTdKdVFwcEYzQ3RfYW9OaVpjTFZScWFFNGd4X1pDTkVXNXFvRENtdUI3aGNLQ1BYOHVFR3RSQXByMVVUZjhWalR3bk93ZWl3WFdSZFM2UUpScnUwTTBjX2ZSRXdCNnM2YjRPTFFMRmpBUFptWWZhaUM0NW1Xem1XTmJNc0FNR09CVUE?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2026-08-26T14:01:43.000Z",
+    "category": "AI & Chips",
+    "startupName": "Indian DeepTech Startup",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "India, Japan seek deeper startup, deep-tech cooperation; Goyal pitches $1 billion fund and capital corridor  Livemint",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to AI & Chips sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\nIndia, Japan seek deeper startup, deep-tech cooperation; Goyal pitches $1 billion fund and capital corridor  Livemint\n\n### Deep Tech Impact Analysis\n\nThe emergence of **Indian DeepTech Startup** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across AI & Chips.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: AI & Chips\n- **Startup Entity**: Indian DeepTech Startup\n- **Publication Source**: [Google News - Indian DeepTech Startups](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTzhPSGozNklNd3lxdU1XQ0F6S01iM1ZyY1d3Yk5oNl9TbDlGTWZTbTB5bDBiM3dzd0RKNVdQUTBDVHZNNEJWZ0JESFVybEtlenRveDVzQnhDYlR4QmZlZ1pXZ0l3M0NDVXlRazRhNXZQSVF2UGRDMGNsT0hUNnhwb3FqWGtnOWZyMC1iQmIyLUdkbFpBM1UzU3Q5MFN5Wm5jcWRPTDBCM1pzSUc1UkFRd29USXZCUnNrSkx4QVowVUpGaVFQOHpqN2dxSWxkS2YyYkNWM0pRVG0yaEExbWRrNl9KcHJiQUdM0gHuAUFVX3lxTE05dkp4TzluTlRoOVRiYW9sSXBQTG40NEwtNWxFSDZ2UGNKNWJHT29TYzk1a3lib19hdXdsWnoxR0ltaDdsRHo0ZTlJU096bXZvRlZnci13YU9ObjB2YklVdFJCbG1CWjJPT2l1LTdKdVFwcEYzQ3RfYW9OaVpjTFZScWFFNGd4X1pDTkVXNXFvRENtdUI3aGNLQ1BYOHVFR3RSQXByMVVUZjhWalR3bk93ZWl3WFdSZFM2UUpScnUwTTBjX2ZSRXdCNnM2YjRPTFFMRmpBUFptWWZhaUM0NW1Xem1XTmJNc0FNR09CVUE?oc=5)\n            ",
+    "tags": [
+      "AI & Chips",
+      "DeepTech",
+      "India Innovation",
+      "Indian DeepTech Startup"
+    ]
+  },
+  {
+    "id": "dt-scrape-1788033856914-635",
+    "title": "Centre Plans Study to Help India’s Deep Tech Startups Scale Up",
+    "slug": "centre-plans-study-to-help-india-s-deep-tech-startups-scale-up",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWkoxNzhwMWRGTDEyejN6N2FFZVJRQzFxRDBnVktENzZPOVhpV3NDcWV6X2pBNzhuS0FSOURKMEpUU1VuVEZjNURyb2IySkVLOGZ0YTJGVVpzU2xSN2NublYxRGdxOUVPZFhhcGNxaU5yMEJYVldXUUZfYkZaY0h2THpTb041SDRqTnhWU25YQ3hEcXc?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2026-08-27T05:46:06.000Z",
+    "category": "AI & Chips",
+    "startupName": "Deep Tech",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Centre Plans Study to Help India’s Deep Tech Startups Scale Up  boldnewsonline.com",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to AI & Chips sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\nCentre Plans Study to Help India’s Deep Tech Startups Scale Up  boldnewsonline.com\n\n### Deep Tech Impact Analysis\n\nThe emergence of **Deep Tech** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across AI & Chips.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: AI & Chips\n- **Startup Entity**: Deep Tech\n- **Publication Source**: [Google News - Indian DeepTech Startups](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWkoxNzhwMWRGTDEyejN6N2FFZVJRQzFxRDBnVktENzZPOVhpV3NDcWV6X2pBNzhuS0FSOURKMEpUU1VuVEZjNURyb2IySkVLOGZ0YTJGVVpzU2xSN2NublYxRGdxOUVPZFhhcGNxaU5yMEJYVldXUUZfYkZaY0h2THpTb041SDRqTnhWU25YQ3hEcXc?oc=5)\n            ",
+    "tags": [
+      "AI & Chips",
+      "DeepTech",
+      "India Innovation",
+      "Deep Tech"
+    ]
+  },
+  {
+    "id": "dt-scrape-1788033856912-740",
+    "title": "Govt plans study to strengthen India's deep-tech startup ecosystem",
+    "slug": "govt-plans-study-to-strengthen-india-s-deep-tech-startup-ecosystem",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUFJER2JGMnJQM00tdHdYSjhBNk5ZVW9oY1hmUXN6S1I3Z1dlSTBrRU5ZTU9RaTYzRnhwQXdrVzlRQllGc2dfSXpMNFdGZkpuWjk3MldTazNxOWxzandYR0ViU3dYVE1nUkduNUZvZG9UM3FjWWJrb3RXTzhZWjBvQ0tFNWItMS1zbV9hcXhHekFHeXR2LXFYRXdUQ2FIczh3QnRXd21sOEtxd2pNa2tPamV5SHlxcVk4N2NFbHZhQTY?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2026-08-27T04:03:00.000Z",
+    "category": "AI & Chips",
+    "startupName": "Indian DeepTech Startup",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Govt plans study to strengthen India's deep-tech startup ecosystem  TradingView",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to AI & Chips sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\nGovt plans study to strengthen India's deep-tech startup ecosystem  TradingView\n\n### Deep Tech Impact Analysis\n\nThe emergence of **Indian DeepTech Startup** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across AI & Chips.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: AI & Chips\n- **Startup Entity**: Indian DeepTech Startup\n- **Publication Source**: [Google News - Indian DeepTech Startups](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUFJER2JGMnJQM00tdHdYSjhBNk5ZVW9oY1hmUXN6S1I3Z1dlSTBrRU5ZTU9RaTYzRnhwQXdrVzlRQllGc2dfSXpMNFdGZkpuWjk3MldTazNxOWxzandYR0ViU3dYVE1nUkduNUZvZG9UM3FjWWJrb3RXTzhZWjBvQ0tFNWItMS1zbV9hcXhHekFHeXR2LXFYRXdUQ2FIczh3QnRXd21sOEtxd2pNa2tPamV5SHlxcVk4N2NFbHZhQTY?oc=5)\n            ",
+    "tags": [
+      "AI & Chips",
+      "DeepTech",
+      "India Innovation",
+      "Indian DeepTech Startup"
+    ]
+  },
+  {
+    "id": "dt-scrape-1788033856911-684",
+    "title": "PM Modi Chairs AI and Deeptech Startup Roundtable at Seva Teerth in New Delhi",
+    "slug": "pm-modi-chairs-ai-and-deeptech-startup-roundtable-at-seva-teerth-in-new-delhi",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQzEtZVVCamZwWDQ4X2JLV24zZTNRQkQ2VGVyYjZXMUNxSHlyREwtVEt4c09kZ3FwOHRpb3AzRWo4T2pGR1MxeXlmVHJaTS1JcnBzWHBva1BPZ3dfdU9UeDN1LUIzVERIc2xLMlg4U3NCZU5mRGdWdG1HY0E3ZU55eF9fUEgwOVpLTlpfbWtDdTMxcDRJZUg1LVVn?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2026-08-27T23:13:22.000Z",
+    "category": "AI & Chips",
+    "startupName": "Modi Chairs AI",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "PM Modi Chairs AI and Deeptech Startup Roundtable at Seva Teerth in New Delhi  News On AIR",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to AI & Chips sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\nPM Modi Chairs AI and Deeptech Startup Roundtable at Seva Teerth in New Delhi  News On AIR\n\n### Deep Tech Impact Analysis\n\nThe emergence of **Modi Chairs AI** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across AI & Chips.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: AI & Chips\n- **Startup Entity**: Modi Chairs AI\n- **Publication Source**: [Google News - Indian DeepTech Startups](https://news.google.com/rss/articles/CBMimgFBVV95cUxNQzEtZVVCamZwWDQ4X2JLV24zZTNRQkQ2VGVyYjZXMUNxSHlyREwtVEt4c09kZ3FwOHRpb3AzRWo4T2pGR1MxeXlmVHJaTS1JcnBzWHBva1BPZ3dfdU9UeDN1LUIzVERIc2xLMlg4U3NCZU5mRGdWdG1HY0E3ZU55eF9fUEgwOVpLTlpfbWtDdTMxcDRJZUg1LVVn?oc=5)\n            ",
+    "tags": [
+      "AI & Chips",
+      "DeepTech",
+      "India Innovation",
+      "Modi Chairs AI"
+    ]
+  },
+  {
+    "id": "dt-scrape-1788033856909-789",
+    "title": "Bharat Innovates showcases India’s rise as global innovation hub: Dharmendra Pradhan",
+    "slug": "bharat-innovates-showcases-india-s-rise-as-global-innovation-hub-dharmendra-pradhan",
+    "source": "Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEZWbnkta0ZyN3Nhak8wYnVjYVBQWFBNNFJtbGpwbldOVDV4clRMQi1zNEFwNmVqTEJLTDh3TUJwTzJfdi00UjNXblg5UXpkc04yNHhkVWRkU0Yxd2xKdDk2Y1NHZHZJTmxEY0c0QXdldjBfVEl3bm9FRXZVT1luSnFDVDdYS253WWswYlpqOFZBQlhrS2p1ZkJlNDJPMjk1eHdqTFM5SjVrUFJ5?oc=5",
+    "author": "Deep Tech Dispatch",
+    "publishedAt": "2026-08-28T19:09:16.000Z",
+    "category": "AI & Chips",
+    "startupName": "Indian DeepTech Startup",
+    "startupLocation": "India",
+    "fundingStage": "Deep Tech Innovation",
+    "readTime": "3 min read",
+    "heroImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Bharat Innovates showcases India’s rise as global innovation hub: Dharmendra Pradhan  DD News",
+    "innovationHighlights": [
+      "Indigenous deep tech innovation developed in Indian R&D ecosystems.",
+      "Pertains to AI & Chips sector advancements with global export potential.",
+      "Targeting high-scale industry deployment and technology transfer."
+    ],
+    "fullContent": "\n### Executive Overview\n\nBharat Innovates showcases India’s rise as global innovation hub: Dharmendra Pradhan  DD News\n\n### Deep Tech Impact Analysis\n\nThe emergence of **Indian DeepTech Startup** highlights the growing maturity of India's frontier technology ecosystem. By bridging foundational scientific research with scalable commercial engineering, domestic innovators are addressing critical bottlenecks across AI & Chips.\n\n> \"India's deep tech startups are shifting from application-layer software to deep physical hardware, synthetic biology, and quantum IP,\" according to industry analysts.\n\n### Key Takeaways\n- **Sector**: AI & Chips\n- **Startup Entity**: Indian DeepTech Startup\n- **Publication Source**: [Google News - Indian DeepTech Startups](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEZWbnkta0ZyN3Nhak8wYnVjYVBQWFBNNFJtbGpwbldOVDV4clRMQi1zNEFwNmVqTEJLTDh3TUJwTzJfdi00UjNXblg5UXpkc04yNHhkVWRkU0Yxd2xKdDk2Y1NHZHZJTmxEY0c0QXdldjBfVEl3bm9FRXZVT1luSnFDVDdYS253WWswYlpqOFZBQlhrS2p1ZkJlNDJPMjk1eHdqTFM5SjVrUFJ5?oc=5)\n            ",
+    "tags": [
+      "AI & Chips",
+      "DeepTech",
+      "India Innovation",
+      "Indian DeepTech Startup"
+    ]
+  },
+  {
+    "id": "dt-001",
+    "title": "Agnikul Cosmos Successfully Conducts Flight of Custom 3D-Printed Semi-Cryogenic Rocket SubOrbital SFA",
+    "slug": "agnikul-cosmos-3d-printed-semi-cryo-rocket-test-flight",
+    "source": "TechCrunch Space / Inc42",
+    "sourceUrl": "https://inc42.com/features/agnikul-cosmos-3d-printed-rocket-launch-india-spacetech/",
+    "author": "Aarav Sharma",
+    "publishedAt": "2026-08-28T14:30:00Z",
+    "category": "SpaceTech",
+    "startupName": "Agnikul Cosmos",
+    "startupLocation": "Chennai, Tamil Nadu",
+    "fundingStage": "Series B ($35M Raised)",
+    "readTime": "6 min read",
+    "featured": true,
+    "heroImage": "https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Chennai-based spacetech pioneer Agnikul Cosmos has achieved a world first by launching Agnibaan SOrTeD powered by a single-piece 3D-printed semi-cryogenic engine manufactured entirely in India.",
+    "innovationHighlights": [
+      "Single-piece 3D-printed rocket engine (Agnite) manufactured without a single welded seam.",
+      "Operates on sub-cooled kerosene (Isosene) and liquid oxygen (LOX) semi-cryogenic propellants.",
+      "Mobile launchpad \"Dhanush\" allows launch capability from any location on Earth.",
+      "Customizable payload capacity up to 300kg to Low Earth Orbit (LEO)."
+    ],
+    "fullContent": "\n### Breakthrough in Additive Space Manufacturing\n\nChennai-based space startup **Agnikul Cosmos**, incubated at IIT Madras, has carved a milestone in global aerospace engineering by completing the maiden flight of its Agnibaan SOrTeD (Sub-Orbital Technological Demonstrator). The rocket utilizes the world's first single-piece 3D-printed engine, designed and manufactured entirely in Agnikul's Rocket Factory 1 in Chennai.\n\nUnlike traditional rocket engines that require thousands of handcrafted components, Agnikul's patented engine is printed as a unified block using high-strength nickel alloy in under 72 hours. This radical design reduces payload assembly time from months to days while cutting production costs by over 60%.\n\n### Powered by Semi-Cryogenic Technology\n\nThe Agnibaan rocket leverages a semi-cryogenic engine utilizing industrial Kerosene and Liquid Oxygen (LOX). Semi-cryogenic engines offer higher specific impulse and safety compared to standard solid boosters, while avoiding the extreme thermal storage challenges of full liquid hydrogen cryogenics.\n\n> \"Today's successful flight test proves that complex aerospace hardware can be rapidly prototyped and produced at scale using additive manufacturing right here in India,\" remarked **Srinath Ravichandran**, Co-founder & CEO of Agnikul Cosmos.\n\n### Indian Spacetech Ecosystem Momentum\n\nIndia's private space industry has witnessed unprecedented growth following the government's deregulation of the space sector and IN-SPACe authorization framework. Agnikul, alongside peer Skyroot Aerospace, is positioning India as the world's leading cost-effective satellite launch hub for small to medium satellite constellations.\n\nWith commercial launches scheduled for early 2027, Agnikul is expanding its client pipeline across Europe, Japan, and Southeast Asian Earth-observation satellite operators.\n    ",
+    "tags": [
+      "SpaceTech",
+      "3D Printing",
+      "Rocketry",
+      "IIT Madras",
+      "IN-SPACe"
+    ]
+  },
+  {
+    "id": "dt-002",
+    "title": "Mindgrove Labs Unveils \"SecureIoT\": India's First Commercial 28nm RISC-V System-on-Chip",
+    "slug": "mindgrove-labs-india-first-commercial-riscv-chip-secureiot",
+    "source": "EE Times India / ETtech",
+    "sourceUrl": "https://economictimes.indiatimes.com/tech/startups/mindgrove-labs-risc-v-chip",
+    "author": "Priya Sundaram",
+    "publishedAt": "2026-08-27T09:15:00Z",
+    "category": "AI & Chips",
+    "startupName": "Mindgrove Labs",
+    "startupLocation": "Bengaluru, Karnataka",
+    "fundingStage": "Seed ($6M Raised)",
+    "readTime": "5 min read",
+    "featured": true,
+    "heroImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Fabless semiconductor startup Mindgrove Labs launches SecureIoT, a high-efficiency 28nm RISC-V microcontroller designed for smart grids, wearables, and industrial automation.",
+    "innovationHighlights": [
+      "Built on the open-source RISC-V instruction set architecture tailored for edge computing.",
+      "Consumes 30% less power than equivalent ARM Cortex-M4 microcontrollers.",
+      "Hardware-level cryptographic engine with secure boot and post-quantum encryption ready.",
+      "Designed in India under the National Semiconductor Mission initiative."
+    ],
+    "fullContent": "\n### Pushing India into Commercial Semiconductor IP\n\nDeep tech chip design startup **Mindgrove Labs** has officially launched **SecureIoT**, marking India's entry into high-volume commercial RISC-V SoC production. Backed by Peak XV Partners and the IIT Madras Pravartak Technologies Foundation, Mindgrove designed the chip targeting connected devices, EV battery management systems, and smart electricity meters.\n\nThe chip leverages a 28nm node process fabricated through foundry partners, offering local OEMs a domestic alternative to imported microcontrollers that currently dominate 90% of Indian electronics manufacturing.\n\n### Edge Computing and Security Architecture\n\nSecureIoT integrates an in-house hardware security module (HSM) capable of executing AES-256, RSA-4096, and ECC encryption at line speed without burdening the primary CPU core. \n\n> \"India imports billions of dollars in basic microcontrollers annually,\" explained **Shashwath TR**, CEO of Mindgrove Labs. \"SecureIoT delivers enterprise-grade security at a price point that makes domestic IoT manufacturing economically unassailable.\"\n\n### Strategic Alignment with India Semiconductor Mission (ISM)\n\nWith India committing $10 Billion in subsidies for semiconductor fabs and chip design, Mindgrove represents a successful wave of fabless startups creating indigenous IP. The company plans to follow up with an edge AI processor capable of running compressed LLM vision models on sub-5W power envelopes.\n    ",
+    "tags": [
+      "Semiconductors",
+      "RISC-V",
+      "DeepTech",
+      "Edge AI",
+      "Hardware"
+    ]
+  },
+  {
+    "id": "dt-003",
+    "title": "String Bio Engineers Methane-Eating Microbes to Produce High-Protein Sustainable Feeds",
+    "slug": "string-bio-methane-fermentation-single-cell-protein",
+    "source": "YourStory BioTech / Forbes India",
+    "sourceUrl": "https://yourstory.com/2026/08/string-bio-methane-protein-climate-tech",
+    "author": "Vikramaditya Roy",
+    "publishedAt": "2026-08-26T18:45:00Z",
+    "category": "BioTech",
+    "startupName": "String Bio",
+    "startupLocation": "Bengaluru, Karnataka",
+    "fundingStage": "Series B ($20M Raised)",
+    "readTime": "7 min read",
+    "featured": true,
+    "heroImage": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Bengaluru-based synthetic biology innovator String Bio converts potent greenhouse gas methane into high-grade proteins for aquaculture and agriculture using gas fermentation.",
+    "innovationHighlights": [
+      "SIMP (String Integrated Methane Platform) converts greenhouse gas into bio-based ingredients.",
+      "Reduces carbon footprint by 80% compared to traditional soy and fishmeal protein sourcing.",
+      "Produces PROTINIUM™ feed ingredients for poultry and aquaculture markets.",
+      "Scalable gas-fermentation bioreactors operating continuously on industrial waste gas."
+    ],
+    "fullContent": "\n### Converting Greenhouse Emissions into Food Security\n\nSynthetic biology startup **String Bio** has reached commercial scale at its multi-ton production facility in Bengaluru. By harnessing methanotrophic bacteria that consume methane gas as their sole energy source, String Bio transforms harmful industrial gas into rich single-cell protein (SCP).\n\nMethane has a global warming potential 28 times greater than carbon dioxide over a 100-year timescale. String Bio's process traps waste methane from landfills, bio-digesters, and industrial flaring, feeding it into gas-fermentation reactors.\n\n### Addressing Global Protein Supply Chain Bottlenecks\n\nThe resulting product, **PROTINIUM™**, boasts a 70%+ protein concentration with an amino acid profile superior to conventional soybean meal and fishmeal, without requiring arable land or fresh water irrigation.\n\n> \"We are proving that biology can solve climate change and food security simultaneously,\" stated **Dr. Ezhil Subbian**, Co-founder and CEO of String Bio. \"Our platform turns a potent pollutant into a valuable nutrition input for global supply chains.\"\n\n### Global Expansion into Human Nutrition and Materials\n\nString Bio is now partnering with international agribusiness conglomerates across Asia-Pacific and Latin America to license its gas-fermentation bioreactor blueprints, opening new horizons for biological climate technology.\n    ",
+    "tags": [
+      "BioTech",
+      "ClimateTech",
+      "Synthetic Biology",
+      "Methane",
+      "Sustainability"
+    ]
+  },
+  {
+    "id": "dt-004",
+    "title": "Netradyne Raises $100M to Scale Vision AI and Edge Driver Safety Systems Globally",
+    "slug": "netradyne-vision-ai-driver-safety-100m-expansion",
+    "source": "TechInAsia / LiveMint",
+    "sourceUrl": "https://livemint.com/technology/netradyne-ai-funding-edge-computing",
+    "author": "Neha Kapoor",
+    "publishedAt": "2026-08-25T11:20:00Z",
+    "category": "AI & Chips",
+    "startupName": "Netradyne",
+    "startupLocation": "Bengaluru / San Diego",
+    "fundingStage": "Series D ($100M Raised)",
+    "readTime": "4 min read",
+    "featured": false,
+    "heroImage": "https://images.unsplash.com/photo-1558442074-3c19857bc1dc?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Deep learning startup Netradyne has processed over 15 billion commercial driving miles with Driveri®, its quad-camera vision AI edge hardware platform.",
+    "innovationHighlights": [
+      "Quad-camera vision AI platform running high-speed neural networks directly on vehicle edge processors.",
+      "Real-time automated driver safety feedback and hazard detection with 99.4% accuracy.",
+      "Analyses 100% of driving time rather than trigger-only inertial event logging."
+    ],
+    "fullContent": "\n### Redefining Fleet Safety through High-Speed Vision Processing\n\nBengaluru and California-headquartered **Netradyne** continues to dominate commercial fleet safety AI with its **Driveri®** device. Utilizing edge GPUs mounted behind driver windshields, the system continuously analyzes video streams to detect stop-sign compliance, tailgating, pedestrian crosswalks, driver fatigue, and mobile phone usage.\n\n### The Power of Full-Time Edge Inference\n\nMost legacy dashcam systems only record video when sharp braking or G-force spikes occur. Netradyne's edge platform computes vision models in real-time, rewarding positive driving behavior while issuing audio alerts before accidents happen.\n\n> \"Our vision algorithms process millions of visual data points every second right inside the cabin,\" said **Avneesh Agrawal**, CEO of Netradyne. \"This capital influx will accelerate our autonomous heavy vehicle perception R&D.\"\n    ",
+    "tags": [
+      "AI",
+      "Computer Vision",
+      "Edge AI",
+      "Fleet Safety",
+      "Autonomous Vehicles"
+    ]
+  },
+  {
+    "id": "dt-005",
+    "title": "Bugworks Research Begins Phase 2 Clinical Trials for Broad-Spectrum Superbug Antibiotic",
+    "slug": "bugworks-phase-2-trials-superbug-antibiotic-bgy-02",
+    "source": "BioWorld / Economic Times",
+    "sourceUrl": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare/bugworks-superbug-antibiotic",
+    "author": "Dr. Siddharth Nair",
+    "publishedAt": "2026-08-24T16:10:00Z",
+    "category": "BioTech",
+    "startupName": "Bugworks Research",
+    "startupLocation": "Bengaluru, Karnataka",
+    "fundingStage": "Series B ($30M Raised)",
+    "readTime": "6 min read",
+    "featured": false,
+    "heroImage": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Biopharmaceutical startup Bugworks initiates global clinical trials for BGY-02, a novel dual-target agent battling multidrug-resistant Gram-negative superbugs.",
+    "innovationHighlights": [
+      "Dual-action mechanism inhibiting bacterial DNA Gyrase and Topoisomerase IV simultaneously.",
+      "Zero cross-resistance with existing commercial antibiotic classes.",
+      "First antibiotic candidate originating from India to enter global CARB-X Phase 2 clinical trials."
+    ],
+    "fullContent": "\n### Combating the Antimicrobial Resistance (AMR) Crisis\n\nBengaluru-incubated drug discovery startup **Bugworks Research** has achieved a major milestone in global health by advancing its novel antibiotic drug candidate, **BGY-02**, into Phase 2 human clinical trials. Antimicrobial resistance causes over 1.2 million deaths annually worldwide, with Gram-negative superbugs posing the highest mortality threat in hospital ICUs.\n\n### Dual-Targeting Molecular Design\n\nDeveloped using proprietary structure-guided computational biophysics, BGY-02 paralyzes two critical bacterial enzymes simultaneously. This dual-target mechanism makes it virtually impossible for bacteria to mutate single point resistance.\n\n> \"No new class of broad-spectrum Gram-negative antibiotics has reached patients in over 50 years,\" noted **Dr. Anand Anandkumar**, CEO of Bugworks. \"BGY-02 represents Indian biotech innovation leading the charge against AMR.\"\n    ",
+    "tags": [
+      "BioTech",
+      "Pharma",
+      "Drug Discovery",
+      "AMR",
+      "CARB-X"
+    ]
+  },
+  {
+    "id": "dt-006",
+    "title": "Chakra Innovation & Log9 Partner to Deploy Rapid-Charging Graphene-Enhanced LTO Batteries",
+    "slug": "log9-chakra-graphene-lto-rapid-charge-battery-tech",
+    "source": "Autocar Professional / CleanTech India",
+    "sourceUrl": "https://autocarpro.in/news/log9-materials-graphene-lto-ev-batteries",
+    "author": "Kavita Sundaram",
+    "publishedAt": "2026-08-23T10:05:00Z",
+    "category": "ClimateTech",
+    "startupName": "Log9 Materials",
+    "startupLocation": "Bengaluru, Karnataka",
+    "fundingStage": "Series B ($40M Raised)",
+    "readTime": "5 min read",
+    "featured": false,
+    "heroImage": "https://images.unsplash.com/photo-1563720223185-11003d516935?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "Nanotechnology pioneer Log9 Materials scales 9-minute rapid charging InstaCharge batteries for commercial 2W and 3W electric fleets across 15 Indian cities.",
+    "innovationHighlights": [
+      "Graphene-boosted Lithium Titanate Oxide (LTO) cell chemistry with 9-minute 0-100% fast charging.",
+      "Operates reliably between -30°C and 60°C without risk of thermal runaway fires.",
+      "Battery lifespan exceeding 15,000 charge cycles (~15 years operational life)."
+    ],
+    "fullContent": "\n### Revolutionizing Commercial Electric Mobility\n\nIndian deep tech battery pioneer **Log9 Materials** has commercially deployed over 10,000 rapid-charging **InstaCharge** battery packs built on proprietary graphene-infused LTO cells. Designed specifically for tropical temperatures and heavy commercial delivery usage, Log9's technology solves the twin battery challenges of thermal safety and downtime.\n\n### Graphene Nanotechnology Advantage\n\nBy embedding synthesized graphene sheets into battery anodes, Log9 dramatically lowers internal electrical resistance and heat buildup during hyper-fast charging. Commercial drivers can fully recharge their vehicles during a 10-minute tea break, eliminating range anxiety.\n\n> \"Our battery technology isn't just imported and assembled; we synthesize graphene and engineer cell chemistry in Bengaluru,\" said **Dr. Akshay Singhal**, Founder & CEO of Log9.\n    ",
+    "tags": [
+      "ClimateTech",
+      "Energy Storage",
+      "Batteries",
+      "Graphene",
+      "EV"
+    ]
+  }
+]

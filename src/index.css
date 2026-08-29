@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white text-gray-900 font-sans antialiased selection:bg-verge-pink selection:text-white;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-sans font-extrabold tracking-tight text-gray-900;
+  }
+}
+
+/* Verge Typography & Aesthetics */
+.verge-title {
+  font-family: 'Plus Jakarta Sans', 'Inter', sans-serif;
+  letter-spacing: -0.03em;
+  color: #121212;
+}
+
+.verge-kicker {
+  font-family: 'Fira Code', monospace;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #E20074;
+}
+
+.verge-serif {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+/* Custom Scrollbar for Right Drawer Reader */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f4f4f5;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d4d4d8;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #e20074;
+}
+
+/* Drawer Transition Backdrop */
+.drawer-backdrop {
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
